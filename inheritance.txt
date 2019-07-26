@@ -1,0 +1,6 @@
+Inheritance:-
+  Its the process of creating a new class out of base class.
+  So a new class has all the properties of the base class and in addition to that
+  it has some other methods.
+
+  
